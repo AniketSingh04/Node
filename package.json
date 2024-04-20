@@ -1,0 +1,13 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "Code repo for NodeJs tutorial",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Node_Server/index2.js"
+    , "dev" : "nodemon Node_Server/index2.js"
+  },
+  "author": "Aniket_Raj_Singh",
+  "license": "ISC"
+}
